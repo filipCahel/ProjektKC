@@ -1,0 +1,15 @@
+{
+    "name": "cahel_filip/projekt-kc",
+    "description": "ano",
+    "autoload": {
+        "psr-4": {
+            "CahelFilip\\ProjektKc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ja"
+        }
+    ],
+    "require": {}
+}
